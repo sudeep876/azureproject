@@ -1,0 +1,9 @@
+{
+	"name": "supreethdatafactory",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8d022c17-1970-4006-a2dc-f00d5bc978b7",
+		"tenantId": "871786fd-61a1-4650-9732-068271f76ea8"
+	}
+}
